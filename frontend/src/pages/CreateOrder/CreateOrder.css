@@ -1,0 +1,7 @@
+.createOrder {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 32px;
+  border: 1px black solid;
+}
